@@ -3,7 +3,7 @@ Rights: **Stefan Matei Necsulescu and Cucuzacu**
 
 #THIS IS THE OFFICIAL AMETHYST PROGRAMMING LANGUEGE
 
-**Amethyst** — the ** first programming language that autocorrects**
+**Amethyst** — the **first programming language that autocorrects**
 
 
 ____________________________________
